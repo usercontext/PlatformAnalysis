@@ -1,0 +1,7 @@
+Cluster ['good', 'write', 'essay']. Score = -0.00 Wiki
+Cluster ['history', 'used', 'best', 'write', 'financial', 'strong', 'way', 'report', 'science', 'term', 'school', 'essay', 'indian', 'paper', 'method', 'efficiency', 'papers', 'research', 'scientific']. Score = 0.97 Quora
+Cluster ['history', 'theoretical', 'think', 'write', 'state', 'application', 'best', 'follow', 'case', 'study', 'narrative', 'us', 'followed', 'ever', 'report', 'essay', 'paper', 'method', 'world', 'physics', 'research', 'scientific']. Score = 0.99 Wiki
+Cluster ['used', 'admission', 'intelligence', 'invented', 'thesis', 'write', 'described', 'artificial', 'social', 'use', 'idioms', 'narrative', 'community', 'science', 'statement', 'argumentative', 'theories', 'essay', 'paper', 'method', 'research', 'scientific']. Score = 0.99 Quora
+Cluster ['write', 'essay', 'admissions']. Score = -0.00 Wiki
+Cluster ['minutes', '30']. Score = -0.00 Wiki
+Cluster ['cons', 'pros']. Score = -0.00 Quora

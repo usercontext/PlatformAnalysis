@@ -1,0 +1,8 @@
+Cluster ['writing', 'creative', 'mfa']. Score = -0.00 Wiki
+Cluster ['assistant', 'first', 'online', 'care', 'media', 'theoretical', 'mid-ranked', 'student', 'studies', 'phd', '(networks)', 'part', 'school', 'undergraduates', 'graduate', 'united', 'department', 'assistants', 'law', 'degree', 'survive', 'stony', 'nursing', 'computer', 'best', 'certified', 'abroad', 'states', 'measure', 'program', 'science', 'mass', 'jd', 'fail', 'year', 'brook', '(ai', 'get', 'philippines', 'time']. Score = 1.00 Wiki
+Cluster ['mba', 'first', 'grad', "master's", 'funded', 'phd', 'students', 'bachelors', 'part', 'school', 'design', 'graduate', 'high', 'acceptance', 'fully', 'law', 'degree', 'survive', 'computer', 'master’s', 'writing', 'masters', 'program', 'science', 'year', 'university', 'get', 'usa', 'creative', 'time']. Score = 0.99 Wiki
+Cluster ['accepting', 'decorate']. Score = -0.00 Wiki
+Cluster ['goa', 'science', 'computer', 'stanford', 'phd']. Score = -0.00 Quora
+Cluster ['post', 'graduation', 'students', 'graduate']. Score = -0.00 Quora
+Cluster ['cons', 'pros']. Score = -0.00 Quora
+Cluster ['cities', 'twin']. Score = -0.00 Quora

@@ -23,14 +23,14 @@ for w in words_quora:
         quora_sentence.append(w.lower())
 
 finder = TrigramCollocationFinder.from_words(wiki_sentence)
-trigram_wiki = finder.nbest(TrigramAssocMeasures.likelihood_ratio, 10)
+trigram_wiki = finder.nbest(TrigramAssocMeasures.likelihood_ratio, 20)
 finder = TrigramCollocationFinder.from_words(quora_sentence)
-trigram_quora = finder.nbest(TrigramAssocMeasures.likelihood_ratio, 10)
+trigram_quora = finder.nbest(TrigramAssocMeasures.likelihood_ratio, 20)
 
 finder = BigramCollocationFinder.from_words(wiki_sentence)
-bigram_wiki = finder.nbest(BigramAssocMeasures.likelihood_ratio, 10)
+bigram_wiki = finder.nbest(BigramAssocMeasures.likelihood_ratio, 20)
 finder = BigramCollocationFinder.from_words(quora_sentence)
-bigram_quora = finder.nbest(BigramAssocMeasures.likelihood_ratio, 10)
+bigram_quora = finder.nbest(BigramAssocMeasures.likelihood_ratio, 20)
 
 universal = trigram_wiki + bigram_wiki + trigram_quora + bigram_quora
 

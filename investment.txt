@@ -1,0 +1,9 @@
+Cluster ['real', 'estate', 'agricultural']. Score = -0.00 Wiki
+Cluster ['fund', 'real', 'long', 'short', 'knowledge', 'right', 'good', 'estate', 'hyper-inflation', 'ftt', 'invest', 'day', 'system', 'simulator', 'best', 'crash', 'dealing', 'market', 'term', 'share', 'preconstruction', 'illinois', 'india', 'incentive', 'agency', 'public', 'projects', 'finance', 'savings', 'learn', 'initial', 'time', 'successful', 'money', 'prior', 'trading', 'stock', 'idea', 'tight', 'price', 'indian', 'mutual', 'make', 'based', 'bonds', 'way', 'us', "(i'm"]. Score = 0.97 Quora
+Cluster ['real', 'cash', 'estate', 'mutual', 'correlation', 'coefficient', 'start', 'investing', 'funds', 'flow', 'alshamsi', 'ali']. Score = 0.99 Wiki
+Cluster ['dinars', 'iraqi']. Score = -0.00 Wiki
+Cluster ['upper', 'fixer']. Score = -0.00 Wiki
+Cluster ['self', 'storage']. Score = -0.00 Wiki
+Cluster ['high', 'hyip']. Score = -0.00 Wiki
+Cluster ['per', 'warren', 'buffett', 'gordon', 'miller', 'month']. Score = -0.00 Quora
+Cluster ['demat', 'account']. Score = -0.00 Quora

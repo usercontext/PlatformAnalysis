@@ -1,0 +1,20 @@
+Cluster ['card', 'security', 'social']. Score = -0.00 Wiki
+Cluster ['indian', 'name', 'employee', 'social', 'security', 'earn', 'government']. Score = 0.92 Wiki
+Cluster ['indian', 'small', 'business', 'employees', 'social', 'security', 'government', 'isn’t', 'disability', 'modi']. Score = 0.92 Quora
+Cluster ['apply', 'income', 'tax', 'social', 'security', 'government', 'benefits']. Score = 0.81 Wiki
+Cluster ['indian', 'social', 'employee?', 'spending', 'security', 'government', 'proof']. Score = 0.92 Quora
+Cluster ['card', 'green']. Score = -0.00 Wiki
+Cluster ['vote', 'register']. Score = -0.00 Wiki
+Cluster ['officer', 'police']. Score = -0.00 Wiki
+Cluster ['years', '3']. Score = -0.00 Quora
+Cluster ['states', 'united']. Score = 1.00 Wiki + QuoraCluster ['become', 'earn', 'social', 'political', 'government?', 'officer', 'government', 'party', 'indian', 'us', 'name', 'corporate', 'card', 'security', 'release', 'taking', 'governance?', 'give', 'federal', '2000', 'offices?', 'system']. Score = 1.00 Wiki + Quora
+Cluster ['security', 'indian', 'claim', 'contact', 'collect', 'verify', 'make', 'taken', 'employee?', 'take', 'spending', 'employee', 'social', 'fake', 'proof', 'government?', 'government']. Score = 1.00 Quora
+Cluster ['security', 'indian', 'nadu', 'hasn’t', 'though', 'disability', 'tamil', 'social', 'survivor', 'even', 'government']. Score = 0.97 Quora
+Cluster ['indian', 'taking', 'employee', 'return', 'tax', 'government']. Score = 0.81 Quora
+Cluster ['food', 'stamps']. Score = -0.00 Wiki
+Cluster ['obama', 'barack']. Score = -0.00 Wiki
+Cluster ['donate', 'car']. Score = -0.00 Wiki
+Cluster ['indian', 'stop', 'ban', 'government']. Score = -0.00 Quora
+Cluster ['united', 'states']. Score = 1.00 Wiki + Quora
+Cluster ['taken', 'happen', 'steps', 'would']. Score = -0.00 Quora
+Cluster ['pros', 'cons']. Score = -0.00 Quora
